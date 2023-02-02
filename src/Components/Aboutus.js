@@ -81,7 +81,7 @@ function Aboutus() {
                                     <dt data-Aos="fade-up" data-aos-delay="100" className="col-6">Started</dt>
                                     <dd data-Aos="fade-up" data-aos-delay="100" className="col-6">1 Jun. 2021</dd>
                                     <dt data-Aos="fade-up" data-aos-delay="200" className="col-6">Major Stake Holder</dt>
-                                    <dd data-Aos="fade-up" data-aos-delay="200" className="col-6">Aditya and Parth.</dd>
+                                    <dd data-Aos="fade-up" data-aos-delay="200" className="col-6">Gaurav and Aditya.</dd>
                                     <dt data-Aos="fade-up" data-aos-delay="300" className="col-6">Last Year's Turnover</dt>
                                     <dd data-Aos="fade-up" data-aos-delay="300" className="col-6">$00001</dd>
                                     <dt data-Aos="fade-up" data-aos-delay="400" className="col-6">Employees</dt>

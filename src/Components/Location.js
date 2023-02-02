@@ -26,12 +26,12 @@ function Location() {
                         <i className="fa fa-phone"></i>: +542 1234 5678<br />
                         <i className="fa fa-fax"></i>: +542 8765 4321<br />
                         <i className="fa fa-envelope"></i>:
-                            <a href="mailto:aaditytiwari3@gmail.com">aaditytiwari3@gmail.com</a>
+                            <a href="mailto:hrxgaurav@gmail.com">hrxgaurav@gmail.com</a>
                     </address>
                     <div data-Aos="zoom-in"  className="btn-group contact_med" role="group">
                         <a data-Aos="zoom-in-right" role="button" className="btn btn-primary" href="tel:+85212345678"><i className="fa fa-phone"></i> Call</a>
                         <a data-Aos="zoom-in" role="button" className="btn btn-info"><i className="fa fa-skype"></i> Skype</a>
-                        <a data-Aos="zoom-in-left" role="button" className="btn btn-success" href="mailto:aaditytiwari3@gmail.com"><i className="fa fa-envelope-o"></i> Email</a>
+                        <a data-Aos="zoom-in-left" role="button" className="btn btn-success" href="mailto:hrxgaurav@gmail.com"><i className="fa fa-envelope-o"></i> Email</a>
                     </div>
                 </div>
                 <div className="col-12 col-sm-6 offset-sm-1">
