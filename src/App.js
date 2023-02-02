@@ -1,15 +1,15 @@
 import React,{createContext,useReducer} from 'react';
-import Navbar from "./components/Navbar";
+import Navbar from "./Components/Navbar";
 import {Route,Switch} from "react-router-dom";
-import Home from "./components/Home";
-import Aboutus from "./components/Aboutus";
-import Login from "./components/Login";
-import Registration from "./components/Registration";
-import Work from "./components/Work";
-import MyStocks from "./components/MyStocks";
-import Logout from "./components/Logout";
-import Profile from "./components/Profile"
-import ErrorPage from './components/ErrorPage';
+import Home from "./Components/Home";
+import Aboutus from "./Components/Aboutus";
+import Login from "./Components/Login";
+import Registration from "./Components/Registration";
+import Work from "./Components/Work";
+import MyStocks from "./Components/MyStocks";
+import Logout from "./Components/Logout";
+import Profile from "./Components/Profile"
+import ErrorPage from './Components/ErrorPage';
 import {reducer,initialState} from "../src/reduser/useReducer";
 import "./Styles/App.css";
 
