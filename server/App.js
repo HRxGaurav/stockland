@@ -24,6 +24,8 @@ App.use(require('./router/auth'));
 //     res.send("welcome to Register page");
 // })
 
-App.listen(port, () =>{
-    console.log(`server is runing on port no. ${port}`);
-})
+// App.listen(port, () =>{
+//     console.log(`server is runing on port no. ${port}`);
+// })
+
+App.listen(process.env.PORT || 4000)
